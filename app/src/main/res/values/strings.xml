@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IDME</string>
+    <string name="no_network">No internet Connectivity</string>
+</resources>
